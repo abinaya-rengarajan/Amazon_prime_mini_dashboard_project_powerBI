@@ -3,7 +3,7 @@
 ## 🌟 Overview
 
 This repository contains a **mini Power BI dashboard** created using a **subset of the Amazon Prime Video dataset**.  
-- Original dataset source: [Kaggle – Amazon Prime Movies and Shows](https://www.kaggle.com/datasets/prasertk/amazon-prime-movies-and-shows)  
+- Original dataset source: [Kaggle – Amazon Prime Movies and Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)  
 - Dataset used: **200 rows** (derived from the original dataset for demonstration purposes)  
 
 The dashboard provides **interactive visual storytelling** about Amazon Prime Video content, including:  
